@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "9G88W7JCNW.com.xpmetal.circledin",
-                "paths": [ "*" ]
+                "paths": [ "/*" ]
             }
         ]
     }
