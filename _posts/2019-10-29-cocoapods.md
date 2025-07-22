@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "cocoapods"
+categories: cocoapods
+---
 ### 查看问题
 
 ```
